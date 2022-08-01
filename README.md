@@ -8,6 +8,3 @@ Email : ppriyesh61@gmail.com
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&hide=contribs,prs&show_icons=true&theme=vue&hide=javascript )](https://github.com/Priyeshchikhaliya/github-readme-stats)
-
-
