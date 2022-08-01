@@ -21,6 +21,14 @@
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/16qsvyxXZU6Z_pl9xZIlXSrpW-7_w7y0J/view?usp=drivesdk).
 - :nerd_face: Always `Eager to learn new things`
 <br></br>
+
+<br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
+<br>
 <h3>Recent Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide=jupyter%20notebook&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
