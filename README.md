@@ -97,7 +97,8 @@
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
   &emsp;
- <h5>🎭 Playwright</h5>
+	<a> <h5>🎭 Playwright</h5></a>
+
   
 
 </p>
