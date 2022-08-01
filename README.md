@@ -11,4 +11,4 @@ Email : ppriyesh61@gmail.com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
 <br></br>
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya?title=All_Langs)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
