@@ -19,7 +19,7 @@
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/16qsvyxXZU6Z_pl9xZIlXSrpW-7_w7y0J/view?usp=drivesdk).
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always `Eager to learn new things`
 <br></br>
 <h3>Recent Languages</h3>
 
