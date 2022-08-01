@@ -97,7 +97,7 @@
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Playwright" src="https://3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Playwright-Logo-700x394.png?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Playwright" src="https://drive.google.com/file/d/17EDWlxW87Hl719l2B1iJ0oc8ifmvh83L/view?usp=drivesdk?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
