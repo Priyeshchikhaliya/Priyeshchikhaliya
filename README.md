@@ -97,7 +97,7 @@
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Playwright" src="https://www.lambdatest.com/resources/images/header/Playwright_logo.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Playwright" src="https://www.lambdatest.com/resources/images/header/Playwright_logo.svg?&style=plastic&logo=playwright&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
