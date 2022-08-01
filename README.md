@@ -1,9 +1,5 @@
-Name: Priyesh Chikhaliya 👋 👋 👋
-I am interested in Coding and Gaming.
-I know Web development.
-also interested in app development.
-Currently learning more in Web......
-Email : ppriyesh61@gmail.com
+- :computer: I am a competitive programmer mainly at `Codeforces`
+
 <br></br>
 <h3>Recent Languages</h3>
 
