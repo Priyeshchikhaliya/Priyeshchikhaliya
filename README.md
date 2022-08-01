@@ -5,6 +5,6 @@ also interested in app development.
 Currently learning more in Web......
 Email : ppriyesh61@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide=Python)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide=jupyternotebook)](https://github.com/Priyeshchikhaliya/github-readme-stats)
 
 
