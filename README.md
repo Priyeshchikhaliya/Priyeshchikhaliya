@@ -71,8 +71,9 @@
 ### 👉 Frontend Development
 <p align="center"> 
 &emsp;
+
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img alt="React" src="[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://badges.aleen42.com/src/react.svg)">
   </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
