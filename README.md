@@ -14,6 +14,5 @@ Email : ppriyesh61@gmail.com
 <br></br>
 <h3>All Languages So Far</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide_title=true)]
-(https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide=jupyter%20notebook&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
 <br></br>
