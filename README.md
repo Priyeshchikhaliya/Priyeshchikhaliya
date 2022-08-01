@@ -29,8 +29,8 @@
 
 ## 👀 My Competitive Programming Profiles
 
-<p align="center">
-  <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" hieght="15"/></a>
+<p align="center" hieght="15">
+  <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" /></a>
 	
 	
 
