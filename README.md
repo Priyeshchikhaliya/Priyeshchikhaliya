@@ -87,11 +87,9 @@
   &emsp;
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://stackoverflow.com/users/11805091/priyesh-patel"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-   
+    <a href="https://stackoverflow.com/users/11805091/priyesh-patel"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>   
    &emsp;
     <a href="https://www.json.org/json-en.html"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a> 
-  
   &emsp;
     <a href="https://playwright.dev/"><img alt="playwright" src="https://img.shields.io/badge/Playwright-v0.2.6-green?style=plastic&logo=appveyor"></a>
   &emsp;
