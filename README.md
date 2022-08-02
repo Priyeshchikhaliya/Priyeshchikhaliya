@@ -21,12 +21,13 @@
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/16qsvyxXZU6Z_pl9xZIlXSrpW-7_w7y0J/view?usp=drivesdk).
 - :nerd_face: Always `Eager to learn new things`
 <br></br>
+##  Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=algolia" alt="7oSkaaa" /></p>
 <br>
-##  Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
+
 
 ## 👀 My Competitive Programming Profiles
 
