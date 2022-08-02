@@ -25,6 +25,7 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=algolia" alt="7oSkaaa" /></p>
 <br>
+##  Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
 
 ## 👀 My Competitive Programming Profiles
