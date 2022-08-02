@@ -24,9 +24,8 @@
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=algolia" alt="7oSkaaa" /></p>
-<br></br>
-
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
 
 ## 👀 My Competitive Programming Profiles
 
@@ -142,4 +141,3 @@
 ## All Languages So Far
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
 <br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
