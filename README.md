@@ -97,7 +97,7 @@
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
 	 &emsp;
-    <a href="#"><img alt="playwright" src="https://img.shields.io/badge/Playwright-%235586A4.svg?style=plastic&logo=playwright&logoColor=white"></a>
+    <a href="#"><img alt="playwright" src="https://img.shields.io/badge/Playwright-v0.2.6-green?style=plastic&logo=appveyor"></a>
   &emsp;
 
   
