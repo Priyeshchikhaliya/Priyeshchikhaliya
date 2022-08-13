@@ -20,7 +20,7 @@
 - :school: I am a `Software Engineer`, Currently working at Drevol Software LLP
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/16qsvyxXZU6Z_pl9xZIlXSrpW-7_w7y0J/view?usp=drivesdk).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1dYJggOcbnsmA9WgGAl07MizI5RnqK1wV/view?usp=sharing).
 - :nerd_face: Always `Eager to learn new things`
 <br></br>
 ##  Github Stats
