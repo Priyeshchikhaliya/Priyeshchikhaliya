@@ -21,7 +21,7 @@
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1cgTljqUtJEEKqqyR5ZJSK6B-3iyxVc8C/view?usp=sharing).
-- :nerd_face: Always `Eager to learn new things`
+- :nerd_face: `Eager to learn new things`
 <br></br>
 ##  Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
