@@ -17,7 +17,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Software Engineer`, Currently working at Drevol Software LLP
+- :school: I am a `Software Engineer`, Currently working at Pedalsup Innovation LLP
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/12v4hxIjEFhxPIo-1rhkWYFmC_jpE2OjV/view?usp=share_link).
@@ -145,7 +145,7 @@
 ## All Languages So Far
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
 <br></br>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<!-- <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Priyeshchikhaliya"><img alt="Priyesh Chikhaliya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyeshchikhaliya&custom_title=Priyesh%20Chikhaliya's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
