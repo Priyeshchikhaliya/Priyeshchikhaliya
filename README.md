@@ -20,7 +20,7 @@
 - :school: I am a `Software Engineer`, Currently working at Pedalsup Innovation LLP
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/16E2JLorSqD5UD8gMaWuVfYx6kkB5ypID/view?usp=drivesdk).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1_cLy6mNiQLirLkCu8FVpMODcpjnr-uYs/view?usp=sharing).
 - :nerd_face: `Eager to learn new things`
 <br></br>
 ##  Github Stats
