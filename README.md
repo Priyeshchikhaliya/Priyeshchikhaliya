@@ -17,7 +17,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Software Engineer`, Currently working at Pedalsup Innovation LLP
+- :school: I am a `Software Engineer`, Currently studying at George August Universität 
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1_cLy6mNiQLirLkCu8FVpMODcpjnr-uYs/view?usp=sharing).
