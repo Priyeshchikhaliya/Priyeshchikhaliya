@@ -61,13 +61,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=react&hide=prs" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&layout=compact&theme=react&hide=jupyter%20notebook" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=react&hide=prs,issues"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&layout=compact&theme=react&hide=jupyter%20notebook"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=react" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=react"
+  />
 </p>
+
 
 ---
 
