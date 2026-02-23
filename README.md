@@ -109,7 +109,7 @@
   <a href="https://github.com/Priyeshchikhaliya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/17jNhNIAUN30s03LAzd46sTBNd8VKXzbJ/view">
+  <a href="https://drive.google.com/file/d/1Vo9bAPPXH9oh-U85yDji919Ovcya6K6A/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-PDF-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
